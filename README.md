@@ -62,3 +62,11 @@ The base catalog relies on parallel, primitive array offsets to store product sp
 public static String[] productName = {"Rice", "Sugar", "Coffee", "Milk"};
 public static double[] productPrice = {50.0, 25.0, 25.0, 15.0};
 public static int[] productQuantity = {20, 20, 20, 20};
+
+**SCREENSHOTS**
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/b36ef887-667a-4f63-bca3-13d9ee6e744c" />
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/c5e60702-ffed-4375-a071-abfe0f8b0fb9" />
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/e802d581-0d5b-4a25-be35-86a52e6b1bd0" />
+
+
+
